@@ -63,5 +63,10 @@
         "name": "Tensor.Exchange", 
         "url": "www.tensor.exchange", 
         "description": "Bittensor's first community OTC exchange"
+    },
+    "5E6oB7h5wtWPbqtPxtSoZeo11fpvDjPuY13SobAMxqEUjqkQ": {
+        "name": "StakeTensor.com-3",
+        "url": "https://staketensor.com",
+        "description": "Redundant validator setup for maximum uptime, decentralization & returns."
     }
 }
